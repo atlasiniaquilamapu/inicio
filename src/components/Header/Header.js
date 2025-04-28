@@ -32,7 +32,7 @@ const Header = () => {
       <div className="container">
         <div className="header-content">
           <div className="logo-container">
-            <Link to="/" className="logo">
+            <Link to="/inicio" className="logo">
               <img src="/images/logo.png" alt="Atlas Inia Quilamapu" />
             </Link>
           </div>
@@ -47,7 +47,7 @@ const Header = () => {
           
           <nav className={`main-navigation ${mobileMenuOpen ? 'mobile-open' : ''}`}>
             <ul>
-              <li><Link to="/" onClick={() => setMobileMenuOpen(false)}>Inicio</Link></li>
+              <li><Link to="/inicio" onClick={() => setMobileMenuOpen(false)}>Inicio</Link></li>
               <li><Link to="/catalogo" onClick={() => setMobileMenuOpen(false)}>Catálogo Digital</Link></li>
               <li><Link to="/pagina1" onClick={() => setMobileMenuOpen(false)}>Investigación</Link></li>
               <li><Link to="/pagina2" onClick={() => setMobileMenuOpen(false)}>Recursos</Link></li>
