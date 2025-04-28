@@ -22,7 +22,7 @@ function App() {
         <Header />
         <main className="main-content">
           <Routes>
-            <Route path="/" element={<HomePage />} />
+            <Route path="/inicio" element={<HomePage />} />
             <Route path="/catalogo" element={<CatalogPage />} />
             <Route path="/catalogo/:id" element={<CatalogDetail />} />
             <Route path="/investigacion" element={<Page1 />} />
