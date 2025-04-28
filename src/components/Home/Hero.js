@@ -11,7 +11,7 @@ const Hero = () => {
       title: "Atlas Inia Quilamapu",
       subtitle: "Innovación en Investigación Agrícola",
       description: "Explorando el futuro de la agricultura sustentable en Chile",
-      image: "/images/hero-background.jpg",
+      image: "./images/hero-background.jpg",
       buttonText: "Ver Catálogo Digital",
       buttonLink: "/catalogo"
     },
@@ -19,7 +19,7 @@ const Hero = () => {
       title: "Investigación de Excelencia",
       subtitle: "Ciencia al servicio del campo",
       description: "Desarrollo de tecnologías y conocimientos para el sector agropecuario",
-      image: "/images/hero-background-2.jpg",
+      image: "./images/hero-background-2.jpg",
       buttonText: "Conoce Nuestros Proyectos",
       buttonLink: "/pagina1"
     },
@@ -27,7 +27,7 @@ const Hero = () => {
       title: "Transferencia Tecnológica",
       subtitle: "Del laboratorio al campo",
       description: "Implementación de soluciones innovadoras para productores agrícolas",
-      image: "/images/hero-background-3.jpg",
+      image: "./images/hero-background-3.jpg",
       buttonText: "Explorar Recursos",
       buttonLink: "/pagina2"
     }

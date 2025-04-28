@@ -18,42 +18,42 @@ const CatalogPage = () => {
       id: 1,
       title: "Atlas de Suelos Agrícolas",
       content: "Los suelos de la región de Biobío presentan una diversidad ideal para diferentes cultivos agrícolas. Este estudio detallado muestra las características principales de cada zona y sus aplicaciones óptimas.",
-      image: "/images/hero-background.jpg",
+      image: "./images/hero-background.jpg",
       additionalText: "Este atlas proporciona información detallada sobre las propiedades físicas y químicas de los suelos en diferentes zonas agrícolas de la región."
     },
     {
       id: 2,
       title: "Cultivos Estacionales Recomendados",
       content: "La planificación de cultivos según la temporada es esencial para maximizar el rendimiento. Este análisis presenta opciones ideales para cada período del año en la región.",
-      image: "/images/hero-background.jpg",
+      image: "./images/hero-background.jpg",
       additionalText: "Cada temporada ofrece condiciones únicas que benefician determinados cultivos. Utilice esta guía para optimizar su planificación anual."
     },
     {
       id: 3,
       title: "Variedades Mejoradas INIA",
       content: "Las variedades desarrolladas por INIA Quilamapu ofrecen mayor resistencia a enfermedades y adaptabilidad a condiciones locales.",
-      image: "/images/hero-background.jpg",
+      image: "./images/hero-background.jpg",
       additionalText: "Nuestros investigadores trabajan constantemente en el desarrollo de nuevas variedades que respondan a los desafíos de la agricultura moderna."
     },
     {
       id: 4,
       title: "Tecnologías de Riego Eficiente",
       content: "El uso eficiente del agua es un aspecto crítico para la agricultura sustentable. Estas tecnologías permiten optimizar el recurso hídrico.",
-      image: "/images/hero-background.jpg",
+      image: "./images/hero-background.jpg",
       additionalText: "Los sistemas modernos de riego pueden reducir el consumo de agua hasta en un 60% manteniendo o incluso mejorando el rendimiento de los cultivos."
     },
     {
       id: 5,
       title: "Control Biológico de Plagas",
       content: "Las alternativas biológicas para el control de plagas representan una opción más sustentable y amigable con el medio ambiente.",
-      image: "/images/hero-background.jpg",
+      image: "./images/hero-background.jpg",
       additionalText: "El control biológico reduce la dependencia de productos químicos y promueve el equilibrio natural de los ecosistemas agrícolas."
     },
     {
       id: 6,
       title: "Agricultura de Precisión",
       content: "Las nuevas tecnologías permiten una gestión más precisa de los cultivos, optimizando recursos y maximizando rendimientos.",
-      image: "/images/hero-background.jpg",
+      image: "./images/hero-background.jpg",
       additionalText: "La implementación de sensores, drones y sistemas GPS ha revolucionado la forma en que se monitorean y gestionan los cultivos modernos."
     }
   ];

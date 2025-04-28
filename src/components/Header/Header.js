@@ -33,7 +33,7 @@ const Header = () => {
         <div className="header-content">
           <div className="logo-container">
             <Link to="/inicio" className="logo">
-              <img src="/images/logo.png" alt="Atlas Inia Quilamapu" />
+              <img src="./images/logo.png" alt="Atlas Inia Quilamapu" />
             </Link>
           </div>
           

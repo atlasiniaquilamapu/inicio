@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="footer-content">
             <div className="footer-column">
               <div className="footer-logo">
-                <img src="/images/logo.png" alt="Atlas Inia Quilamapu" />
+                <img src="./images/logo.png" alt="Atlas Inia Quilamapu" />
               </div>
               <p className="footer-description">
                 Investigación e innovación para el desarrollo agrícola sustentable de Chile. Un proyecto de INIA Quilamapu.
@@ -37,7 +37,7 @@ const Footer = () => {
             <div className="footer-column">
               <h3 className="footer-title">Enlaces Rápidos</h3>
               <ul className="footer-links">
-                <li><Link to="/">Inicio</Link></li>
+                <li><Link to="/inicio">Inicio</Link></li>
                 <li><Link to="/catalogo">Catálogo Digital</Link></li>
                 <li><Link to="/pagina1">Investigación</Link></li>
                 <li><Link to="/pagina2">Recursos</Link></li>
